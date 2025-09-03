@@ -9,7 +9,7 @@ Bu repo, **SQL sorgularında %90’a kadar performans iyileştirmesi sağlayabil
 - Pre-aggregate + JOIN yaklaşımı ile **dramatic hız kazanımını** ispatlamak  
 - Indexed View (SQL Server’daki materialized view) ile dashboard hızlandırmayı göstermek  
 
-Bu repo, [“Sorgu Süresini %90 Azaltan SQL Deseni”](#) blog yazısını desteklemek için hazırlanmıştır.
+Bu repo, [“Sorgu Süresini %90 Azaltan SQL Deseni”]([#](https://yigit-katircioglu.medium.com/sorgu-s%C3%BCresini-90-azaltan-sql-%C3%A7al%C4%B1%C5%9Fmalar%C4%B1-cte-405b24ca59dc)) blog yazısını desteklemek için hazırlanmıştır.
 
 ---
 
